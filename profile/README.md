@@ -1,6 +1,7 @@
 <div align="center">
 
-  # Welcome Github Users <img src="https://github.com/user-attachments/assets/721614e9-16d0-473b-8588-d8e6afb01e91" width="29px">
+  # Welcome Developers! <img width="32" height="32" alt="512 (2)" src="https://github.com/user-attachments/assets/17b4470c-7a47-45a1-ba5a-76db34d008d5" />
+
 
 
 </div>
@@ -8,7 +9,7 @@
 
 <div align="center">
   
-Below, you can choose crypto checker that suits you
+Select the crypto checker you need from the list below
   
 </div>
 
